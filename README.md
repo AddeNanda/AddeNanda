@@ -1,10 +1,10 @@
-<p align="center"><a href="https://github.com/AddeNanda"><img width="80%" src="./assets/hello.gif" /></a></p>
+<p align="center"><a href="https://github.com/AddeNanda"><img width="25%" src="./assets/hello.gif" /></a></p>
 
-<br />
 
-dude who loves to chat
+<p align="center">dude who loves <s>a cat</s> to chat
 
 **About me**
+- 💬 You can call me Adde/Nanda
 
 - 💼 College Student at Bengkulu University
 
