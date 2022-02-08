@@ -21,8 +21,8 @@ dude who loves to chat
 
 
 <p align="left">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=restumahesa26&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Restu Mahesa's github stats" /> 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=restumahesa26&layout=compact&theme=algolia&hide_border=true" /></p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AddeNanda&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Restu Mahesa's github stats" /> 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AddeNanda&layout=compact&theme=algolia&hide_border=true" /></p>
  
 
 <!--
