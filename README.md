@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/restumahesa26"><img width="80%" src="./assets/gh-readme-header-1.png" /></a></p>
+<p align="center"><a href="https://github.com/AddeNanda"><img width="80%" src="./assets/hello.gif" /></a></p>
 
 <br />
 
